@@ -22,9 +22,6 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget * parent = NULL);
     ~MainWindow();
-
-private:
-    Ui::MainWindow * ui;
 };
 
 
