@@ -3,6 +3,7 @@
 
 
 #include <QtGui/QMainWindow>
+#include "diagramview.h"
 
 
 
@@ -22,6 +23,9 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget * parent = NULL);
     ~MainWindow();
+
+private:
+    DiagramView diagramView;
 };
 
 

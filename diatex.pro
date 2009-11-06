@@ -6,6 +6,8 @@ QT += svg \
 TARGET = diatex
 TEMPLATE = app
 SOURCES += main.cpp \
-    mainwindow.cpp
-HEADERS += mainwindow.h
+    mainwindow.cpp \
+    diagramview.cpp
+HEADERS += mainwindow.h \
+    diagramview.h
 FORMS += 
