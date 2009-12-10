@@ -4,8 +4,7 @@
 
 
 MainWindow::MainWindow(QWidget * parent):
-    QMainWindow(parent),
-    diagramView(this)
+    QMainWindow(parent)
 {
 }
 

@@ -23,9 +23,6 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget * parent = NULL);
     ~MainWindow();
-
-private:
-    DiagramView diagramView;
 };
 
 
