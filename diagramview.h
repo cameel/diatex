@@ -4,20 +4,4 @@
 
 
 
-class TDiagramView 
-{
-
-    int Push();
-
-};
-
-
-
-//CLASS METHODS
-int TDiagramView::Push() 
-{
-}
-
-
-
 #endif // DIAGRAMVIEW_H
