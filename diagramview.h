@@ -6,7 +6,14 @@
 
 class TDiagramView
 {
+    int button;
+    int Push();
 };
+
+int TDiagramView::Push()
+{
+
+}
 
 
 
