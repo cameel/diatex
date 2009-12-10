@@ -1,9 +1,21 @@
 #ifndef DIAGRAMVIEW_H
 #define DIAGRAMVIEW_H
 
-class TDiagramView {
 
 
+
+class TDiagramView 
+{
+
+    int Push();
+
+};
+
+
+
+//CLASS METHODS
+int TDiagramView::Push() 
+{
 }
 
 
