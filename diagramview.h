@@ -4,4 +4,11 @@
 
 
 
+class TDiagramView
+{
+};
+
+
+
+
 #endif // DIAGRAMVIEW_H
