@@ -1,10 +1,13 @@
 #ifndef DIAGRAMVIEW_H
 #define DIAGRAMVIEW_H
 
-class TDiagramView {
 
 
-}
+
+class TDiagramView
+{
+};
+
 
 
 
