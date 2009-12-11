@@ -10,11 +10,6 @@ class TDiagramView
     int Push();
 };
 
-int TDiagramView::Push()
-{
-
-}
-
 
 
 
