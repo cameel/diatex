@@ -3,6 +3,7 @@
 
 
 #include <QtGui/QMainWindow>
+#include <QtGui/QPushButton>
 #include "diagramview.h"
 
 
@@ -26,6 +27,7 @@ public:
 
 private:
     TDiagramView m_DiagramView;
+    QPushButton  m_Button;
 };
 
 
