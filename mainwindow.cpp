@@ -3,7 +3,7 @@
 
 
 
-MainWindow::MainWindow(QWidget * parent):
+TMainWindow::TMainWindow(QWidget * parent):
     QMainWindow(parent),
     m_DiagramView(this)
 {
@@ -12,6 +12,6 @@ MainWindow::MainWindow(QWidget * parent):
 
 
 
-MainWindow::~MainWindow()
+TMainWindow::~TMainWindow()
 {
 }

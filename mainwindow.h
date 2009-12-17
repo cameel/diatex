@@ -10,19 +10,19 @@
 
 namespace Ui
 {
-    class MainWindow;
+    class TMainWindow;
 }
 
 
 
 
-class MainWindow : public QMainWindow
+class TMainWindow : public QMainWindow
 {
     Q_OBJECT
 
 public:
-    MainWindow(QWidget * parent = NULL);
-    ~MainWindow();
+    TMainWindow(QWidget * parent = NULL);
+    ~TMainWindow();
 
 private:
     TDiagramView m_DiagramView;
