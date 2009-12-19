@@ -6,7 +6,7 @@
 TMainWindow::TMainWindow(QWidget * parent):
     QMainWindow(parent),
     m_DiagramView(this),
-    m_Button(tr("Random rectangle"), this)
+    m_Button("Random rectangle", this)
 {
 }
 

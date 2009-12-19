@@ -9,14 +9,6 @@
 
 
 
-namespace Ui
-{
-    class TMainWindow;
-}
-
-
-
-
 class TMainWindow : public QMainWindow
 {
     Q_OBJECT
