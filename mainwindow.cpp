@@ -20,6 +20,7 @@ TMainWindow::~TMainWindow()
 
 
 
+
 void TMainWindow::ChangeButtonText(const char * pNewText)
 {
     m_Button.setText(pNewText);

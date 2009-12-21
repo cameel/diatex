@@ -17,7 +17,7 @@ public:
     TMainWindow(QWidget * parent = NULL);
     ~TMainWindow();
 
-    void ChangeButtonText(const char * pNewText);
+    void ChangeButtonText(char * pNewText);
 
 private:
     TDiagramView m_DiagramView;
